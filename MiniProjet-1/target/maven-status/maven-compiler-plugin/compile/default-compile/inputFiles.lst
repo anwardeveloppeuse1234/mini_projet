@@ -1,0 +1,10 @@
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\MiniProjet1Application.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\entities\ProduitProjection.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\restcontrollers\CategorieRESTController.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\entities\Produit.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\repos\CategorieRepository.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\service\ProduitService.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\entities\Categorie.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\restcontrollers\ProduitRESTController.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\repos\ProduitRepository.java
+C:\Users\AminA\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\MiniProjet-1\src\main\java\com\amina\produits\service\ProduitServiceImpl.java
